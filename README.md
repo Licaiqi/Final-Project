@@ -1,2 +1,2 @@
 # Final-Project
-how to apply LLMs in specific domains 
+How to apply LLMs in specific domains.
