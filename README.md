@@ -35,6 +35,9 @@ _____
 *XrayGLM*
 首个会看胸部X光片的中文多模态医学大模型，在医学影像诊断和多轮交互对话上显示出了非凡的潜力。
 
-从目前来看，大模型的发展，第一应该为发展性能，比如，扩大模型和数据集的规模，进行多模态、多任务的预训练；第二，则是挖掘已有大型人工智能模型的潜力，比如通过prompt engineering, fine-tuning, linear probing等， 来进一步探索它们尚未被人们知悉的能力。
+**从目前来看，大模型的发展，第一应该为发展性能，比如，扩大模型和数据集的规模，进行多模态、多任务的预训练；第二，则是挖掘已有大型人工智能模型的潜力，比如通过prompt engineering, fine-tuning, linear probing等， 来进一步探索它们尚未被人们知悉的能力。**
 
+[医疗AI与GPT | 梳理全球医疗大模型](https://zhuanlan.zhihu.com/p/658284168)
+[AI大模型走进医疗，如何破解落地难题？](https://zhuanlan.zhihu.com/p/673338994)
+[最新综述！预训练大模型用于医疗健康领域的全面调研](https://blog.csdn.net/amusi1994/article/details/133594022)
 
